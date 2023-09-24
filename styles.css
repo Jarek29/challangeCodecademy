@@ -1,0 +1,35 @@
+
+Body {
+  background-color:slateblue;
+}
+
+.header {
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+}
+
+th {
+  background-color:darkred;
+  color: white;
+  font-family: Roboto, serif;
+  text-transform: uppercase;
+}
+tr {
+  background: oldlace;
+  font-family:'fantasy',sans-serif;
+  
+}
+th, td {
+  font-family: 'fantasy', sans-serif;
+  font-weight: 400;
+  padding:  20px;
+  text-align: left;
+  width: 30%;
+}
+.tag{
+  text-align: center;
+  color:  darkorchid;
+  font-size: 35px;
+  font-weight: bold;
+}
